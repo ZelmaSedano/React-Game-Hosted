@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Game-Hosted/static/css/main.58c93623.chunk.css",
+    "main.js": "/React-Game-Hosted/static/js/main.3a0aa9b7.chunk.js",
+    "main.js.map": "/React-Game-Hosted/static/js/main.3a0aa9b7.chunk.js.map",
+    "runtime-main.js": "/React-Game-Hosted/static/js/runtime-main.d578babc.js",
+    "runtime-main.js.map": "/React-Game-Hosted/static/js/runtime-main.d578babc.js.map",
+    "static/js/2.b94f9999.chunk.js": "/React-Game-Hosted/static/js/2.b94f9999.chunk.js",
+    "static/js/2.b94f9999.chunk.js.map": "/React-Game-Hosted/static/js/2.b94f9999.chunk.js.map",
+    "index.html": "/React-Game-Hosted/index.html",
+    "static/css/main.58c93623.chunk.css.map": "/React-Game-Hosted/static/css/main.58c93623.chunk.css.map",
+    "static/js/2.b94f9999.chunk.js.LICENSE.txt": "/React-Game-Hosted/static/js/2.b94f9999.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d578babc.js",
+    "static/js/2.b94f9999.chunk.js",
+    "static/css/main.58c93623.chunk.css",
+    "static/js/main.3a0aa9b7.chunk.js"
+  ]
+}
